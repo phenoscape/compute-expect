@@ -17,7 +17,7 @@ public class Main {
 	private static final String resultsDir = "/data/results/";
 	private static final String scoresSizesPath = absPath + resultsDir
 			+ "Scores_Sizes.txt";
-			//+ "Scores_Sizes_rand20.txt";
+//			+ "Scores_Sizes_rand20.txt";
 	private static final String profileSizesPath = absPath + resultsDir
 			+ "ProfileSizes.txt";
 
